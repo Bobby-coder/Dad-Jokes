@@ -19,7 +19,7 @@
 
 - ### **[Click here](https://github.com/reactplay/react-play/tree/main/src/plays/dad-jokes)** 
 
-## Play Screenshot
+## Project Screenshot
 
 - ### **Light Mode** 
 
